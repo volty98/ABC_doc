@@ -13,16 +13,16 @@ reset
 ```
 
 ## ＊コマンド一覧
-|  コマンド | 引数1 | 引数2 | 引数3 |
-| ---- | ---- | ---- | ---- |
-| cmd1 | arg1 | arg2 | arg3 |
-| cmd1 | arg1 | arg2 | arg3 |
-| cmd1 | arg1 | arg2 | arg3 |
-| cmd1 | arg1 | arg2 | arg3 |
-| cmd1 | arg1 | arg2 | arg3 |
-| cmd1 | arg1 | arg2 | arg3 |
-| cmd1 | arg1 | arg2 | arg3 |
-| cmd1 | arg1 | arg2 | arg3 |
+|  コマンド | 引数1 | 引数2 | 引数3 | 機能 |
+| ---- | ---- | ---- | ---- | ---- |
+| cmd1 | arg1 | arg2 | arg3 | 機能 |
+| cmd1 | arg1 | arg2 | arg3 | 機能 |
+| cmd1 | arg1 | arg2 | arg3 | 機能 |
+| cmd1 | arg1 | arg2 | arg3 | 機能 |
+| cmd1 | arg1 | arg2 | arg3 | 機能 |
+| cmd1 | arg1 | arg2 | arg3 | 機能 |
+| cmd1 | arg1 | arg2 | arg3 | 機能 |
+| cmd1 | arg1 | arg2 | arg3 | 機能 |
 
 
 
