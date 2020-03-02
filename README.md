@@ -1,3 +1,3 @@
-CDC Console for Airio-Base.
+Serialport console for Airio-Base.
 
 command reference.
